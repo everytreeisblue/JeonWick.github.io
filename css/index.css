@@ -1,0 +1,40 @@
+#top-banner {
+    min-width: 860px;
+    background-color: cadetblue;
+    color: white;
+    border: solid 10px black;
+    text-align: center;
+    padding: 50px 50px;
+}
+
+#profile-photo img{
+    width: 300px;
+    height: 361px;
+    float: left;
+    margin: 80px 80px;
+}
+
+#description{
+    padding: 100px 100px;
+    position: relative;
+    display: inline-box;
+    position: relative;
+}
+
+#links{
+    position: relative;
+    display: block;
+    border: solid 10px black; 
+    min-width: 600px;
+}
+
+#description li{
+    font-size: 25px;
+    margin: 15px;
+}
+
+#links li{
+    font-size: 25px;
+    margin: 15px;
+}
+
