@@ -17,8 +17,8 @@
 
 #description{
     padding: 100px 100px;
-    display: inline-block;
-    position: absolute;
+    display: block;
+    position: relative;
 }
 
 #links{
