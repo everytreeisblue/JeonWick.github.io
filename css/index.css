@@ -16,7 +16,7 @@
 
 #description{
     padding: 100px 100px;
-    display: inline-box;
+    display: inline-block;
     position: absolute;
     z-index: 10;
 }
