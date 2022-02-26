@@ -23,7 +23,7 @@
 
 #links{
     position: relative;
-    display: block;
+    display: inline-block;
     border: solid 10px black; 
     min-width: 600px;
     z-index: 10;
