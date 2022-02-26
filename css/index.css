@@ -12,6 +12,7 @@
     height: 361px;
     float: left;
     margin: 80px 80px;
+    position: relative;
     z-index: 1;
 }
 
