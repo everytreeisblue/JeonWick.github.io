@@ -14,12 +14,12 @@
     margin: 80px 80px;
     position: relative;
     z-index: 1;
+    display: inline-block;
 }
 
 #description{
     padding: 100px 100px;
     display: inline-block;
-    position: relative;
 }
 
 #links{
