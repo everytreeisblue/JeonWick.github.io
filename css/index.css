@@ -12,13 +12,13 @@
     height: 361px;
     float: left;
     margin: 80px 80px;
+    z-index: 1;
 }
 
 #description{
     padding: 100px 100px;
     display: inline-block;
     position: absolute;
-    z-index: 10;
 }
 
 #links{
@@ -26,7 +26,6 @@
     display: inline-block;
     border: solid 10px black; 
     min-width: 600px;
-    z-index: 10;
 }
 
 #description li{
