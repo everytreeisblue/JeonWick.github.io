@@ -17,13 +17,13 @@
 
 #description{
     padding: 100px 100px;
-    display: block;
+    display: inline-block;
     position: relative;
 }
 
 #links{
     position: relative;
-    display: inline-block;
+    display: block;
     border: solid 10px black; 
     min-width: 600px;
 }
