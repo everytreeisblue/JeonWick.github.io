@@ -19,7 +19,6 @@
     z-index: 1;
     padding: 30px;
     padding-top: 240px;
-    display: inline-block;
 }
 
 
@@ -29,11 +28,11 @@
 }
 
 #profile{
-    display: inline-block;
     line-height: 1.4;
     padding: 40px;
     position: relative;
     bottom: 120px;
+    display: block;
 }
 
 #description{
