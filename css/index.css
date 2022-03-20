@@ -3,7 +3,7 @@
 }
 
 #top-banner {
-    min-width: 860px;
+    min-width: 100%;
     background-color: cadetblue;
     color: white;
     border: solid 10px black;
